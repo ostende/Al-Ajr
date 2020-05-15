@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<stream>
+<mp3>
+	<name>الشيخ يوسف بن نوح أحمد</name>
+	<icon>Ahmad-Alajamy.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_Dory_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>لكسائي</Rw>
+</mp3>
+<mp3>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Maher-Almuaiqly.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_Dory_tilawat_Moftah_Assultany/</uri>
+	<Rw>لكسائي</Rw>
+</mp3>
+<mp3>
+	<name>لشيخ عبد الرشيد صوفي</name>
+	<icon>Saad-Alghamdi.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_Dory_tilawat_abdulRashid_Sufi/</uri>
+	<Rw>لكسائي</Rw>
+</mp3>
+<mp3>
+	<name>الشيخ موسى بلال</name>
+	<icon>Mishary-Alafasy.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_Dory_tilawat_musa_bilal/</uri>
+	<Rw>لكسائي</Rw>
+</mp3>
+<mp3>
+	<name>الشيخ صالح أحمد صالح</name>
+	<icon>Abdulbasit.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_Dory_tilawat_Salih_Ahmed_Salih/</uri>
+	<Rw>لكسائي</Rw>
+</mp3>
+<mp3>
+	<name>الشيخ محمد آل عبدالله</name>
+	<icon>Abdulbasit.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://ourquraan.com/quran/Mohammad_Al-Abdullah_(Albizi_and_Qunbol_An_Ibn_Katheer)/</uri>
+	<Rw>الدوري عن الكسائي</Rw>
+</mp3>
+
+</stream>

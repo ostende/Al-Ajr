@@ -1,0 +1,1030 @@
+<?xml version="1.0"?>
+<stream>
+<mp3>
+	<name>سورة الفاتحة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 001.mp3 </uri>
+	<page> 1:1 </page>
+	<page1> 1:1 </page1>
+	<Nm>7</Nm>
+</mp3>
+<mp3>
+	<name>سورة البقرة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 002.mp3 </uri>
+	<page> 2:49 </page>
+	<page1> 2:43 </page1>
+	<Nm>286</Nm>
+</mp3>
+<mp3>
+	<name>سورة آل عمران</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 003.mp3</uri>
+	<page> 50:76 </page>
+	<page1> 43:66 </page1>
+	<Nm>200</Nm>
+</mp3>
+<mp3>
+	<name>سورة النساء</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 004.mp3</uri>
+	<page> 77:106 </page>
+	<page1> 66:92 </page1>
+	<Nm>176</Nm>
+</mp3>
+<mp3>
+	<name>سورة المائدة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 005.mp3</uri>
+	<page> 106:127 </page>
+	<page1> 92:111 </page1>
+	<Nm>120</Nm>
+</mp3>
+<mp3>
+	<name>سورة الأنعام</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 006.mp3</uri>
+	<page> 128:150 </page>
+	<page1> 111:131 </page1>
+	<Nm>165</Nm>
+</mp3>
+<mp3>
+	<name>سورة الأعراف</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 007.mp3</uri>
+	<page> 151:176 </page>
+	<page1> 131:154 </page1>
+	<Nm>206</Nm>
+</mp3>
+<mp3>
+	<name>سورة الأنفال</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 008.mp3</uri>
+	<page> 177:186 </page>
+	<page1> 154:163 </page1>
+	<Nm>75</Nm>
+</mp3>
+<mp3>
+	<name>سورة التوبة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 009.mp3</uri>
+	<page> 187:207 </page>
+	<page1> 163:180 </page1>
+	<Nm>129</Nm>
+</mp3>
+<mp3>
+	<name>سورة يونس</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 010.mp3</uri>
+	<page> 208:221 </page>
+	<page1> 180:192 </page1>
+	<Nm>109</Nm>
+</mp3>
+<mp3>
+	<name>سورة هود</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 011.mp3</uri>
+	<page> 221:235 </page>
+	<page1> 192:205 </page1>
+	<Nm>123</Nm>
+</mp3>
+<mp3>
+	<name>سورة يوسف</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 012.mp3</uri>
+	<page> 235:248 </page>
+	<page1> 205:217 </page1>
+	<Nm>111</Nm>
+</mp3>
+<mp3>
+	<name>سورة الرعد</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 013.mp3</uri>
+	<page> 249:255 </page>
+	<page1> 217:223 </page1>
+	<Nm>43</Nm>
+</mp3>
+<mp3>
+	<name>سورة إبراهيم</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 014.mp3</uri>
+	<page> 255:261 </page>
+	<page1> 223:229 </page1>
+	<Nm>52</Nm>
+</mp3>
+<mp3>
+	<name>سورة الحجر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 015.mp3</uri>
+	<page> 262:267 </page>
+	<page1> 229:234 </page1>
+	<Nm>99</Nm>
+</mp3>
+<mp3>
+	<name>سورة النحل</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 016.mp3</uri>
+	<page> 267:281 </page>
+	<page1> 234:247 </page1>
+	<Nm>128</Nm>
+</mp3>
+<mp3>
+	<name>سورة الإسراء</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 017.mp3</uri>
+	<page> 282:293 </page>
+	<page1> 247:258 </page1>
+	<Nm>111</Nm>
+</mp3>
+<mp3>
+	<name>سورة الكهف</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 018.mp3</uri>
+	<page> 293:304 </page>
+	<page1> 258:269 </page1>
+	<Nm>110</Nm>
+</mp3>
+<mp3>
+	<name>سورة مريم</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 019.mp3</uri>
+	<page> 305:312 </page>
+	<page1> 269:276 </page1>
+	<Nm>98</Nm>
+</mp3>
+<mp3>
+	<name>سورة طه</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 020.mp3</uri>
+	<page> 312:321 </page>
+	<page1> 276:286 </page1>
+	<Nm>135</Nm>
+</mp3>
+<mp3>
+	<name>سورة الأنبياء</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 021.mp3</uri>
+	<page> 322:331 </page>
+	<page1> 286:294 </page1>
+	<Nm>112</Nm>
+</mp3>
+<mp3>
+	<name>سورة الحج</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 022.mp3</uri>
+	<page> 332:341 </page>
+	<page1> 295:304 </page1>
+	<Nm>78</Nm>
+</mp3>
+<mp3>
+	<name>سورة المؤمنون</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 023.mp3</uri>
+	<page> 342:349 </page>
+	<page1> 304:312 </page1>
+	<Nm>118</Nm>
+</mp3>
+<mp3>
+	<name>سورة النور</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 024.mp3</uri>
+	<page> 350:359 </page>
+	<page1> 312:321 </page1>
+	<Nm>64</Nm>
+</mp3>
+<mp3>
+	<name>سورة الفرقان</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 025.mp3</uri>
+	<page> 359:366 </page>
+	<page1> 321:328 </page1>
+	<Nm>77</Nm>
+</mp3>
+<mp3>
+	<name>سورة الشعراء</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 026.mp3</uri>
+	<page> 367:376 </page>
+	<page1> 328:338 </page1>
+	<Nm>227</Nm>
+</mp3>
+<mp3>
+	<name>سورة النمل</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 027.mp3</uri>
+	<page> 377:385 </page>
+	<page1> 338:346 </page1>
+	<Nm>93</Nm>
+</mp3>
+<mp3>
+	<name>سورة القصص</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 028.mp3</uri>
+	<page> 385:396 </page>
+	<page1> 346:356 </page1>
+	<Nm>88</Nm>
+</mp3>
+<mp3>
+	<name>سورة العنكبوت</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 029.mp3</uri>
+	<page> 396:404 </page>
+	<page1> 356:363 </page1>
+	<Nm>69</Nm>
+</mp3>
+<mp3>
+	<name>سورة الروم</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 030.mp3</uri>
+	<page> 404:410 </page>
+	<page1> 364:370 </page1>
+	<Nm>60</Nm>
+</mp3>
+<mp3>
+	<name>سورة لقمان</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 031.mp3</uri>
+	<page> 411:414 </page>
+	<page1> 370:373 </page1>
+	<Nm>34</Nm>
+</mp3>
+<mp3>
+	<name>سورة السجدة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 032.mp3</uri>
+	<page> 415:417 </page>
+	<page1> 373:375 </page1>
+	<Nm>30</Nm>
+</mp3>
+<mp3>
+	 <name>سورة الأحزاب</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 033.mp3</uri>
+	<page> 418:427 </page>
+	<page1> 375:385 </page1>
+	<Nm>73</Nm>
+</mp3>
+<mp3>
+	<name>سورة سبأ</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 034.mp3</uri>
+	<page> 428:434 </page>
+	<page1> 386:391 </page1>
+	<Nm>54</Nm>
+</mp3>
+<mp3>
+	<name>سورة فاطر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 035.mp3</uri>
+	<page> 434:439 </page>
+	<page1> 391:397 </page1>
+	<Nm>45</Nm>
+</mp3>
+<mp3>
+	<name>سورة يس</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 036.mp3</uri>
+	<page> 440:445 </page>
+	<page1> 397:402 </page1>
+	<Nm>83</Nm>
+</mp3>
+<mp3>
+	<name>سورة الصافات</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 037.mp3</uri>
+	<page> 446:452 </page>
+	<page1> 402:409 </page1>
+	<Nm>182</Nm>
+</mp3>
+<mp3>
+	<name>سورة ص</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 038.mp3</uri>
+	<page> 453:458 </page>
+	<page1> 409:414 </page1>
+	<Nm>88</Nm>
+</mp3>
+<mp3>
+	<name>سورة الزمر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 039.mp3</uri>
+	<page> 458:467 </page>
+	<page1> 414:422 </page1>
+	<Nm>75</Nm>
+</mp3>
+<mp3>
+	<name>سورة غافر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 040.mp3</uri>
+	<page> 467:476 </page>
+	<page1> 422:431 </page1>
+	<Nm>85</Nm>
+</mp3>
+<mp3>
+	<name>سورة فصلت</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 041.mp3</uri>
+	<page> 477:482 </page>
+	<page1> 431:436 </page1>
+	<Nm>54</Nm>
+</mp3>
+<mp3>
+	<name>سورة الشورى</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 042.mp3</uri>
+	<page> 483:489 </page>
+	<page1> 436:442 </page1>
+	<Nm>53</Nm>
+</mp3>
+<mp3>
+	<name>سورة الزخرف</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 043.mp3</uri>
+	<page> 489:495 </page>
+	<page1> 442:448 </page1>
+	<Nm>89</Nm>
+</mp3>
+<mp3>
+	<name>سورة الدخان</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 044.mp3</uri>
+	<page> 496:498 </page>
+	<page1> 448:451 </page1>
+	<Nm>59</Nm>
+</mp3>
+<mp3>
+	<name>سورة الجاثية</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 045.mp3</uri>
+	<page> 499:502 </page>
+	<page1> 451:455 </page1>
+	<Nm>37</Nm>
+</mp3>
+<mp3>
+	<name>سورة الأحقاف</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 046.mp3</uri>
+	<page> 502:506 </page>
+	<page1> 455:459 </page1>
+	<Nm>35</Nm>
+</mp3>
+<mp3>
+	<name>سورة محمد</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 047.mp3</uri>
+	<page> 507:510 </page>
+	<page1> 459:463 </page1>
+	<Nm>38</Nm>
+</mp3>
+<mp3>
+	<name>سورة الفتح</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 048.mp3</uri>
+	<page> 511:515 </page>
+	<page1> 464:468 </page1>
+	<Nm>29</Nm>
+</mp3>
+<mp3>
+	<name>سورة الحجرات</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 049.mp3</uri>
+	<page> 515:517 </page>
+	<page1> 468:470 </page1>
+	<Nm>18</Nm>
+</mp3>
+<mp3>
+	<name>سورة ق</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 050.mp3</uri>
+	<page> 518:520 </page>
+	<page1> 471:473 </page1>
+	<Nm>45</Nm>
+</mp3>
+<mp3>
+	<name>سورة الذاريات</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 051.mp3</uri>
+	<page> 520:523 </page>
+	<page1> 473:476 </page1>
+	<Nm>60</Nm>
+</mp3>
+<mp3>
+	<name>سورة الطور</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 052.mp3</uri>
+	<page> 523:525 </page>
+	<page1> 476:479 </page1>
+	<Nm>49</Nm>
+</mp3>
+<mp3>
+	<name>سورة النجم</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 053.mp3</uri>
+	<page> 526:528 </page>
+	<page1> 479:481 </page1>
+	<Nm>62</Nm>
+</mp3>
+<mp3>
+	<name>سورة القمر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 054.mp3</uri>
+	<page> 528:531 </page>
+	<page1> 481:484 </page1>
+	<Nm>55</Nm>
+</mp3>
+<mp3>
+	<name>سورة الرحمن</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 055.mp3</uri>
+	<page> 531:534 </page>
+	<page1> 484:487 </page1>
+	<Nm>78</Nm>
+</mp3>
+<mp3>
+	<name>سورة الواقعة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 056.mp3</uri>
+	<page> 534:537 </page>
+	<page1> 487:490 </page1>
+	<Nm>96</Nm>
+</mp3>
+<mp3>
+	<name>سورة الحديد</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 057.mp3</uri>
+	<page> 537:541 </page>
+	<page1> 490:495 </page1>
+	<Nm>29</Nm>
+</mp3>
+<mp3>
+	<name>سورة المجادلة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 058.mp3</uri>
+	<page> 542:545 </page>
+	<page1> 495:498 </page1>
+	<Nm>22</Nm>
+</mp3>
+<mp3>
+	<name>سورة الحشر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 059.mp3</uri>
+	<page> 545:548 </page>
+	<page1> 498:501 </page1>
+	<Nm>24</Nm>
+</mp3>
+<mp3>
+	<name>سورة الممتحنة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 060.mp3</uri>
+	<page> 549:551 </page>
+	<page1> 501:504 </page1>
+	<Nm>13</Nm>
+</mp3>
+<mp3>
+	<name>سورة الصف</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 061.mp3</uri>
+	<page> 551:552 </page>
+	<page1> 504:506 </page1>
+	<Nm>14</Nm>
+</mp3>
+<mp3>
+	<name>سورة الجمعة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 062.mp3</uri>
+	<page> 553:554 </page>
+	<page1> 506:507 </page1>
+	<Nm>11</Nm>
+</mp3>
+<mp3>
+	<name>سورة المنافقون</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 063.mp3</uri>
+	<page> 554:555 </page>
+	<page1> 507:508 </page1>
+	<Nm>11</Nm>
+</mp3>
+<mp3>
+	<name>سورة التغابن</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 064.mp3</uri>
+	<page> 556:557 </page>
+	<page1> 508:510 </page1>
+	<Nm>18</Nm>
+</mp3>
+<mp3>
+	<name>سورة الطلاق</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 065.mp3</uri>
+	<page> 558:559 </page>
+	<page1> 510:512 </page1>
+	<Nm>12</Nm>
+</mp3>
+<mp3>
+	<name>سورة التحريم</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 066.mp3</uri>
+	<page> 560:561 </page>
+	<page1> 512:514 </page1>
+	<Nm>12</Nm>
+</mp3>
+<mp3>
+	<name>سورة الملك</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 067.mp3</uri>
+	<page> 562:564 </page>
+	<page1> 514:517 </page1>
+	<Nm>30</Nm>
+</mp3>
+<mp3>
+	<name>سورة القلم</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 068.mp3</uri>
+	<page> 564:566 </page>
+	<page1> 517:519 </page1>
+	<Nm>52</Nm>
+</mp3>
+<mp3>
+	<name>سورة الحاقة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 069.mp3</uri>
+	<page> 566:568 </page>
+	<page1> 519:521 </page1>
+	<Nm>52</Nm>
+</mp3>
+<mp3>
+	<name>سورة المعارج</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 070.mp3</uri>
+	<page> 568:570 </page>
+	<page1> 521:523 </page1>
+	<Nm>44</Nm>
+</mp3>
+<mp3>
+	<name>سورة نوح</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 071.mp3</uri>
+	<page> 570:571 </page>
+	<page1> 523:525 </page1>
+	<Nm>28</Nm>
+</mp3>
+<mp3>
+	<name>سورة الجن</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 072.mp3</uri>
+	<page> 572:573 </page>
+	<page1> 525:527 </page1>
+	<Nm>28</Nm>
+</mp3>
+
+<mp3>
+	<name>سورة المزمل</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 073.mp3</uri>
+	<page> 574:575 </page>
+	<page1> 527:528 </page1>
+	<Nm>20</Nm>
+</mp3>
+<mp3>
+	<name>سورة المدثر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 074.mp3</uri>
+	<page> 575:577 </page>
+	<page1> 528:530 </page1>
+	<Nm>56</Nm>
+</mp3>
+<mp3>
+	<name>سورة القيامة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 075.mp3</uri>
+	<page> 577:578 </page>
+	<page1> 530:532 </page1>
+	<Nm>40</Nm>
+</mp3>
+<mp3>
+	<name>سورة الإنسان</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 076.mp3</uri>
+	<page> 578:580 </page>
+	<page1> 532:534 </page1>
+	<Nm>31</Nm>
+</mp3>
+<mp3>
+	<name>سورة المرسلات</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 077.mp3</uri>
+	<page> 580:581 </page>
+	<page1> 534:535 </page1>
+	<Nm>50</Nm>
+</mp3>
+<mp3>
+	<name>سورة النبأ</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 078.mp3</uri>
+	<page> 582:583 </page>
+	<page1> 535:537 </page1>
+	<Nm>40</Nm>
+</mp3>
+<mp3>
+	<name>سورة النازعات</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 079.mp3</uri>
+	<page> 583:584 </page>
+	<page1> 537:538 </page1>
+	<Nm>46</Nm>
+</mp3>
+<mp3>
+	<name>سورة عبس</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 080.mp3</uri>
+	<page> 585:585 </page>
+	<page1> 538:539 </page1>
+	<Nm>42</Nm>
+</mp3>
+<mp3>
+	<name>سورة التكوير</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 081.mp3</uri>
+	<page> 586:586 </page>
+	<page1> 540:540 </page1>
+	<Nm>29</Nm>
+</mp3>
+<mp3>
+	<name>سورة الإنفطار</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 082.mp3</uri>
+	<page> 587:587 </page>
+	<page1> 541:541 </page1>
+	<Nm>19</Nm>
+</mp3>
+<mp3>
+	<name>سورة المطففين</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 083.mp3</uri>
+	<page> 587:589 </page>
+	<page1> 541:543 </page1>
+	<Nm>36</Nm>
+</mp3>
+<mp3>
+	<name>سورة الإنشقاق</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 084.mp3</uri>
+	<page> 589:589 </page>
+	<page1> 543:544 </page1>
+	<Nm>25</Nm>
+</mp3>
+<mp3>
+	<name>سورة البروج</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 085.mp3</uri>
+	<page> 590:590 </page>
+	<page1> 544:544 </page1>
+	<Nm>22</Nm>
+</mp3>
+<mp3>
+	<name>سورة الطارق</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 086.mp3</uri>
+	<page> 591:591 </page>
+	<page1> 545:545 </page1>
+	<Nm>17</Nm>
+</mp3>
+<mp3>
+	<name>سورة الاعلى</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 087.mp3</uri>
+	<page> 591:592 </page>
+	<page1> 545:546 </page1>
+	<Nm>19</Nm>
+</mp3>
+<mp3>
+	<name>سورة الغاشية</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 088.mp3</uri>
+	<page> 592:592 </page>
+	<page1> 546:547 </page1>
+	<Nm>26</Nm>
+</mp3>
+<mp3>
+	<name>سورة الفجر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 089.mp3</uri>
+	<page> 593:594 </page>
+	<page1> 547:548 </page1>
+	<Nm>30</Nm>
+</mp3>
+<mp3>
+	<name>سورة البلد</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 090.mp3</uri>
+	<page> 594:594 </page>
+	<page1> 548:549 </page1>
+	<Nm>20</Nm>
+</mp3>
+<mp3>
+	<name>سورة الشمس</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 091.mp3</uri>
+	<page> 595:595 </page>
+	<page1> 549:549 </page1>
+	<Nm>15</Nm>
+</mp3>
+<mp3>
+	<name>سورة الليل</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 092.mp3</uri>
+	<page> 595:596 </page>
+	<page1> 549:550 </page1>
+	<Nm>21</Nm>
+</mp3>
+<mp3>
+	<name>سورة الضحى</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 093.mp3</uri>
+	<page> 596:596 </page>
+	<page1> 550:551 </page1>
+	<Nm>11</Nm>
+</mp3>
+<mp3>
+	<name>سورة الشرح</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 094.mp3</uri>
+	<page> 596:596 </page>
+	<page1> 551:551 </page1>
+	<Nm>8</Nm>
+</mp3>
+<mp3>
+	<name>سورة التين</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 095.mp3</uri>
+	<page> 597:597 </page>
+	<page1> 551:551 </page1>
+	<Nm>8</Nm>
+</mp3>
+<mp3>
+	<name>سورة العلق</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 096.mp3</uri>
+	<page> 597:597 </page>
+	<page1> 552:552 </page1>
+	<Nm>19</Nm>
+</mp3>
+<mp3>
+	<name>سورة القدر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 097.mp3</uri>
+	<page> 598:598 </page>
+	<page1> 552:553 </page1>
+	<Nm>5</Nm>
+</mp3>
+<mp3>
+	<name>سورة البينة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 098.mp3</uri>
+	<page> 598:599 </page>
+	<page1> 553:553 </page1>
+	<Nm>8</Nm>
+</mp3>
+<mp3>
+	<name>سورة الزلزلة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 099.mp3</uri>
+	<page> 599:599 </page>
+	<page1> 554:554 </page1>
+	<Nm>8</Nm>
+</mp3>
+<mp3>
+	<name>سورة العاديات</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 100.mp3</uri>
+	<page> 599:600 </page>
+	<page1> 554:554 </page1>
+	<Nm>11</Nm>
+</mp3>
+<mp3>
+	<name>سورة القارعة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 101.mp3</uri>
+	<page> 600:600 </page>
+	<page1> 555:555 </page1>
+	<Nm>11</Nm>
+</mp3>
+<mp3>
+	<name>سورة التكاثر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 102.mp3</uri>
+	<page> 600:600 </page>
+	<page1> 555:555 </page1>
+	<Nm>8</Nm>
+</mp3>
+<mp3>
+	<name>سورة العصر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 103.mp3</uri>
+	<page> 601:601 </page>
+	<page1> 555:556 </page1>
+	<Nm>3</Nm>
+</mp3>
+<mp3>
+	<name>سورة الهمزة</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 104.mp3</uri>
+	<page> 601:601 </page>
+	<page1> 556:556 </page1>
+	<Nm>9</Nm>
+</mp3>
+<mp3>
+	<name>سورة الفيل</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 105.mp3</uri>
+	<page> 601:601 </page>
+	<page1> 556:556 </page1>
+	<Nm>5</Nm>
+</mp3>
+<mp3>
+	<name>سورة قريش</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 106.mp3</uri>
+	<page> 602:602 </page>
+	<page1> 557:557 </page1>
+	<Nm>4</Nm>
+</mp3>
+<mp3>
+	<name>سورة الماعون</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 107.mp3</uri>
+	<page> 602:602 </page>
+	<page1> 557:557 </page1>
+	<Nm>7</Nm>
+</mp3>
+<mp3>
+	<name>سورة الكوثر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 108.mp3</uri>
+	<page> 602:602 </page>
+	<page1> 557:557 </page1>
+	<Nm>3</Nm>
+</mp3>
+<mp3>
+	<name>سورة الكافرون</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 109.mp3</uri>
+	<page> 603:603 </page>
+	<page1> 558:558 </page1>
+	<Nm>6</Nm>
+</mp3>
+<mp3>
+	<name>سورة النصر</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 110.mp3</uri>
+	<page> 603:603 </page>
+	<page1> 558:558 </page1>
+	<Nm>3</Nm>
+</mp3>
+<mp3>
+	<name>سورة المسد</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 111.mp3</uri>
+	<page> 603:603 </page>
+	<page1> 558:558 </page1>
+	<Nm>5</Nm>
+</mp3>
+<mp3>
+	<name>سورة الإخلاص</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 112.mp3</uri>
+	<page> 604:604 </page>
+	<page1> 559:559 </page1>
+	<Nm>4</Nm>
+</mp3>
+<mp3>
+	<name>سورة الفلق</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 113.mp3</uri>
+	<page> 604:604 </page>
+	<page1> 559:559 </page1>
+	<Nm>5</Nm>
+</mp3>
+<mp3>
+	<name>سورة الناس</name>
+	<icon>quran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> 114.mp3</uri>
+	<page> 604:633 </page>
+	<page1> 559:559 </page1>
+	<Nm>6</Nm>
+</mp3>
+</stream>

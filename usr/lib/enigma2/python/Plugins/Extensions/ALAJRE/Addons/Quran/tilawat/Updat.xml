@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<stream>
+<mp3>
+	<name>مصحف برواية ابي الحارث عن الكسائي</name>
+	<url>http://ia801508.us.archive.org/24/items/ALAJRE_HARITKASSAII/HARIT_KASSAII-</url>
+	<num>0</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية البزي عن ابن كثير</name>
+	<url>http://ia801507.us.archive.org/30/items/ALAJRE_BEUZIBNKATIR/BEUZI_BNKATIR-</url>
+	<num>1</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية الدوري عن ابن عمرو</name>
+	<url>http://ia801503.us.archive.org/23/items/ALAJRE-DORYABIAMR/DORY_ABIAMR-</url>
+	<num>2</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية هشام عن ابن عامر</name>
+	<url>http://ia801500.us.archive.org/18/items/ALAJRE_HESHAM_AMIR/HESHAM_AMIR-</url>
+	<num>3</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية خلف عن حمزة</name>
+	<url>http://ia601505.us.archive.org/33/items/ALAJRE_KHOLFHAMZA/KHOLF_HAMZA-</url>
+	<num>4</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية شعبة عن عاصم</name>
+	<url>http://ia601507.us.archive.org/20/items/ALAJRE_SHOBAASIM/SHOBA_ASIM-</url>
+	<num>5</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية الدوري عن الكسائي</name>
+	<url>http://ia801506.us.archive.org/10/items/ALAJRE_DouriKassaii/Douri_Kassaii-</url>
+	<num>6</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية السوسي عن ابن عمرو</name>
+	<url>http://ia601502.us.archive.org/6/items/ALAJRE_SOUSSIAMRO/SOUSSI_AMRO-</url>
+	<num>7</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية ذكوان عن ابن عامر</name>
+	<url>http://ia601500.us.archive.org/23/items/ALAJRE_DAKWANAMIR/DAKWAN_AMIR-</url>
+	<num>8</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية خلاد عن حمزة</name>
+	<url>http://ia601502.us.archive.org/1/items/ALAJRE_KHALADHAMZA/KHALAD_HAMZA-</url>
+	<num>9</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية قنبل عن ابن كثير</name>
+	<url>http://ia601501.us.archive.org/5/items/ALAJRE_KONBOLKATIR/KONBOL_KATIR-</url>
+	<num>10</num>
+</mp3>
+<mp3>
+	<name>مصحف برواية ورش عن نافع</name>
+	<url>http://ia801508.us.archive.org/9/items/ALAJRE_2017/</url>
+	<num>11</num>
+</mp3>
+<mp4>
+	<name>القرآن قراءة وتفسيرا</name>
+	<url>'self.session.open(ScreenCorabessai,"Non")'</url>
+	<num>0</num>
+</mp4>
+<mp4>
+	<name>مصاحف مرتلة بروايات</name>
+	<url>'self.session.open(Screen_AlAJRE_2)'</url>
+	<num>1</num>
+</mp4>
+<mp4>
+	<name>مصاحف مرتلة لأشهر القراء</name>
+	<url>'self.session.open(ScreenCorabessai_3)'</url>
+	<num>2</num>
+</mp4>
+<mp4>
+	<name>إذاعات القرآن</name>
+	<url>'self.session.open(sowar_ALAJRE_Radio, "Radio.xml")'</url>
+	<num>3</num>
+</mp4>
+<mp4>
+	<name>أشهر القراء</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp100")'</url>
+	<num>4</num>
+</mp4>
+<mp4>
+	<name>تصفح القرآن الكريم</name>
+	<url>'self.session.open(sowar_ALAJRE, "tasafoh.xml")'</url>
+	<num>5</num>
+</mp4>
+<mp4>
+	<name>مصاحف مجودة</name>
+	<url>'self.session.open(sowar_ALAJRE, "Moshafmoujawad.xml")'</url>
+	<num>6</num>
+</mp4>
+<mp4>
+	<name>مصحف القراءات العشر</name>
+	<url>'self.session.open(sowarScreenKiraatAchr)'</url>
+	<num>7</num>
+</mp4>
+<mp4>
+	<name>مصاحف بروايات</name>
+	<url>'self.session.open(ScreenMoshaf_Riwaya)'</url>
+	<num>8</num>
+</mp4>
+<mp4>
+	<name>قراءات  متنوعة</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp101")'</url>
+	<num>9</num>
+</mp4>
+<mp4>
+	<name>شرح الشاطبية</name>
+	<url>'self.session.open(ScreenCorabessai_4)'</url>
+	<num>10</num>
+</mp4>
+<mp4>
+	<name>قصص من القرآن الكريم</name>
+	<url>'self.session.open(Kassasse_Quran_ALAJRE)'</url>
+	<num>11</num>
+</mp4>
+<mp4>
+	<name>قراءات مرئية</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE_Video,"karii")'</url>
+	<num>12</num>
+</mp4>
+<mp4>
+	<name>حول البرنامج(تحديث)</name>
+	<url>'self.session.open(ALAJRE_Update)'</url>
+	<num>13</num>
+</mp4>
+<mp5>
+	<name>رواية الكسائي</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp31")'</url>
+	<num>0</num>
+</mp5>
+<mp5>
+	<name>روية البزي</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp3")'</url>
+	<num>1</num>
+</mp5>
+<mp5>
+	<name>رواية الدوري</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp32")'</url>
+	<num>2</num>
+</mp5>
+<mp5>
+	<name>رواية السوسي</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp33")'</url>
+	<num>3</num>
+</mp5>
+<mp5>
+	<name>رواية خلاد</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp42")'</url>
+	<num>4</num>
+</mp5>
+<mp5>
+	<name>رواية خلف</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp40")'</url>
+	<num>5</num>
+</mp5>
+<mp5>
+	<name>رواية شعبة</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp41")'</url>
+	<num>6</num>
+</mp5>
+<mp5>
+	<name>رواية قنبل</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp43")'</url>
+	<num>7</num>
+</mp5>
+<mp5>
+	<name>رواية قالون</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp38")'</url>
+	<num>8</num>
+</mp5>
+<mp5>
+	<name>المصحف المعلم</name>
+	<url>'self.session.open(StreamTVListCoran_ALAJRE,"mp39")'</url>
+	<num>9</num>
+</mp5>
+</stream>

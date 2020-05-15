@@ -1,0 +1,733 @@
+﻿<?xml version="1.0"?>
+<stream>
+<mp3>
+	<name>الشيخ محمد عبدالحكيم سعيد العبدالله</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Mohammed_Abdelhakim_Said_barzi_konbol/</uri>
+	<Rw>_البزي وقنبل عن ابن كثير_</Rw>
+</mp3>
+<mp3>
+	<name>الشيخ محمد آل عبدالله</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://ourquraan.com/quran/Mohammad_Al-Abdullah_(Albizi_and_Qunbol_An_Ibn_Katheer)/</uri>
+	<Rw>_البزي وقنبل عن ابن كثير_</Rw>
+</mp3>
+<mp3>
+	<name>يوسف بن نوح أحمد </name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_riwayat_Khalaf_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>_البزي عن ابن كثير</Rw>
+</mp3>
+<mp3>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_riwayat_Al-Bazzi_tilawat_Moftah_Assultany/</uri>
+	<Rw>_البزي عن ابن كثير_</Rw>
+</mp3>
+<mp3>
+	<name>الشيخ أحمد بن محمد ديبان</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://ahmed-deban.com/Quran/3/</uri>
+	<Rw>_البزي عن ابن كثير_</Rw>
+</mp3>
+<mp31>
+	<name>الشيخ يوسف بن نوح أحمد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_Dory_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>_الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name> الشيخ محمد عبد الحكيم سعيد العبد الله</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Mohamed_Abdelhakim_Saied_Alabdellah_Dori_an_kisai_128-kbps_uP_bY_mUSLEm/</uri>
+	<Rw>_الدوري عن الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>الشيخ محمد عوض الحرباوي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Islamic_Tape-666_uP_bY_mUSLEm/</uri>
+	<Rw>_الدوري عن الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> https://archive.org/download/Al-Quran_Dory_tilawat_Moftah_Assultany/</uri>
+	<Rw>_الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>الشيخ عبد الرشيد صوفي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_abdulRashid_Sufi/</uri>
+	<Rw>_الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>الشيخ موسى بلال</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_musa_bilal/</uri>
+	<Rw>_الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>الشيخ صالح أحمد صالح</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_Salih_Ahmed_Salih/</uri>
+	<Rw>_الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>الشيخ محمد آل عبدالله</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://ourquraan.com/quran/Mohammad_Al-Abdullah_(Albizi_and_Qunbol_An_Ibn_Katheer)/</uri>
+	<Rw>_الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>القارئ محمود محمد رشاد الشيمي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/MahmoudRashadShimi/doori_k/</uri>
+	<Rw>_الدوري عن الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>القارئ الشيخ ربيع عيد محمد محمد جامع</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://ia801500.us.archive.org/30/items/alfirdwsiy1433_gmail_0044444444444444643452_201709/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp31>
+<mp31>
+	<name>القارئ أحمد البطل</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/AhmedBatl/doori_k/</uri>
+	<Rw>_الدوري عن الكسائي_</Rw>
+</mp31>
+<mp31>
+	<name>القارئ أحمد المعصراوي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/quran/mesarawi/doory_kesai/</uri>
+	<Rw>_الدوري عن الكسائي_</Rw>
+</mp31>
+<mp32>
+	<name>الشيخ محمود خليل الحصري</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/quran/hosaree/doori_abu_amr/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp32>
+	<name>الشيخ يوسف بن نوح أحمد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp32>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_Moftah_Assultany/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp32>
+	<name>الشيخ عبد الرشيد صوفي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_abdulRashid_Sufi/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp32>
+	<name>الشيخ موسى بلال</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_musa_bilal/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp32>
+	<name>الشيخ صالح أحمد صالح</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Dory_tilawat_Salih_Ahmed_Salih/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp32>
+	<name>القارئ محمد عارف العسلي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/MohammedArefAl-Asali/doory_abuamr/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp32>
+	<name>القارئ الشيخ ربيع عيد محمد محمد جامع</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://ia801500.us.archive.org/30/items/alfirdwsiy1433_gmail_0044444444444444643452_201709/</uri>
+	<Rw>_الدوري عن أبي عمرو_</Rw>
+</mp32>
+<mp33>
+	<name>الشيخ يوسف بن نوح أحمد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_riwayat_As-Soosi_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>_السوسي عن أبي عمرو_</Rw>
+</mp33>
+<mp33>
+	<name>الشيخ عبد الرشيد صوفي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_riwayat_As-Soosi_tilawat_abdulRashid_Sufi/</uri>
+	<Rw>_السوسي عن أبي عمرو_</Rw>
+</mp33>
+<mp33>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_riwayat_As-Soosi_tilawat_Moftah_Assultany/</uri>
+	<Rw>_السوسي عن أبي عمرو_</Rw>
+</mp33>
+<mp33>
+	<name>القارئ إبراهيم جمال القرجاوي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/IbrahimAlfaragawi/soosi/</uri>
+	<Rw>_السوسي عن أبي عمرو_</Rw>
+</mp33>
+<mp38>
+	<name>الشيخ عثمان الأنداري</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Othman_Al-Andari_Kaloun-Moroccovoice/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ علي عبدالرحمن الحذيفي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://4quran.com/files/readers/Ali%20al-Huthaify%20(Qalon%20an%20nafe3)/</uri>
+	<Rw>_ قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ طه الفهد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al_Quran_tilawat_taha_Al-Fahd/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ الدوكالي محمد العالم</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Doukkali_Mohammad-Kaloun_MoroccoVoice/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ أحمد خضر الطرابلسي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://d1.islamhouse.com/data/ar/ih_quran/ar_Attarabolsi_Qaloon/ar_Attarabolsi_Qaloon_</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ محمد سحيم</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qaloon_tilawat_Mohammed_Sahim/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ مجدي سالم</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qaloon_tilawat_Magdi_Salem/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ وليد النائحي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qaloon_tilawat_Walid_Annayhi/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ محمد عمر الجنايني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qaloon_tilawat_Aljanaini/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ جوهر القردلي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qaloon_tilawat_Jawhar_Gardeli/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>الشيخ العربي الكثيريي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qaloon_tilawat_Alarabi_Alkethiri/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp38>
+	<name>القارىء طه الفهد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al_Quran_tilawat_taha_Al-Fahd/</uri>
+	<Rw>_قالون عن نافع_</Rw>
+</mp38>
+<mp39>
+	<name>القارىء طه الفهد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Azzaherah/Azzaherah_</uri>
+	<Rw>_الختمة الزاهرة الجامعة للقراءات العشر المتواترة_</Rw>
+</mp39>
+<mp39>
+	<name>الشيخ الحسيني العزازي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://d1.islamhouse.com/data/ar/ih_quran/ar_Full_Quran_Teacher_Husaynee_Azzaazee/ar_Quran_Teacher_Husaynee_Azzaazee_</uri>
+	<Rw>_المصحف المعلم_</Rw>
+</mp39>
+<mp39>
+	<name>الشيخ محمد صديق المنشاوي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://d1.islamhouse.com/data/ar/ih_quran/ar_Full_Quran_Teacher_Menshawe/ar_Quran_Teacher_Menshawe_</uri>
+	<Rw>_المصحف المعلم_</Rw>
+</mp39>
+
+<mp40>
+	<name>الشيخ عبد الرشيد صوفي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_riwayat_Khalaf_tilawat_abdulRashid_Sufi/</uri>
+	<Rw>_خلف عن حمزة _</Rw>
+</mp40>
+<mp40>
+	<name>الشيخ يوسف بن نوح أحمد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_riwayat_Khalaf_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>_خلف عن حمزة _</Rw>
+</mp40>
+<mp40>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_riwayat_Khalaf_tilawat_Moftah_Assultany/</uri>
+	<Rw>_خلف عن حمزة _</Rw>
+</mp40>
+<mp41>
+	<name>الشيخ يوسف بن نوح أحمد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Shoaba_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Shoaba_tilawat_Moftah_Assultany/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>الشيخ عبد الرشيد صوفي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Shoaba_tilawat_abdulRashid_Sufi/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>الشيخ محمود محمد رشاد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Shoaba_tilawat_Mahmoud_El-Sheimy/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>القارئ هتلان بن علي الهتلان</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/HtlanBenAliHattlan/shooba/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>القارئ عبد الحكيم عبد اللطيف عبد الله</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/quran/abdulhakeem_abdullateef/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>القارئ ياسر القرشي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/yaser_qurashi/shooba/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>القارئ أحمد محمد مصطفى ديبان</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/AhmedMustafaDaban/shooba/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp41>
+	<name>القارئ فؤاد الخامري</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/quran/fuad_alkhamry/shooba_full/</uri>
+	<Rw>_شعبة عن عاصم_</Rw>
+</mp41>
+<mp42>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_riwayat_Khallad_tilawat_Moftah_Assultany/</uri>
+	<Rw>_خلاد عن حمزة_</Rw>
+</mp42>
+<mp43>
+	<name>الشيخ يوسف بن نوح أحمد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qonbol_tilawat_Yousuf_Ahmad/</uri>
+	<Rw>_قنبل عن ابن كثير_</Rw>
+</mp43>
+<mp43>
+	<name>الشيخ مفتاح محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Al-Quran_Qonbol_tilawat_Moftah_Assultany/</uri>
+	<Rw>_قنبل عن ابن كثير_</Rw>
+</mp43>
+<mp60>
+	<name>الشيخ عبد الرحمن جمال العوسي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/quran-full-114-sorah---by-abd-alrahman-gamal-al3ousy-high-quality-224kb-----mp3/</uri>
+	<Rw>..........</Rw>
+</mp60>
+
+<mp100>
+	<name>القارئ محمد رشاد الشريف</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server10.mp3quran.net/rashad/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ ماهر المعقلي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server12.mp3quran.net/maher/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ سعد الغامدي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Saad_Alghamdi_Quran/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ مشاري العفاسي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Mishary__Alafasy/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ إدريس أبكر حفص عن عاصم</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server6.mp3quran.net/abkr/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ عبد الباسط  - مجود</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Abdulbasit-Abdulsamad/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ هاني الرفاعي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Hani_Arrifai/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ ياسين الجزائري ية برواية ورش عن ن</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Yassine_El-Jazaery-Warsh_MoroccoVoice/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ رياض الجزائري</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://quran.islamway.net/quran3/3967/12592/128/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ حمزة الجزائري رواية ورش عن نافع</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/quran-full--by-hamzah-algzaery-rewayt-warsh---mp3/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ يوسف نورين برواية ورش عن نافع</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/Youssef_Nourine-Warsh-Moroccovoice/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ منصور بلحاج الجزائري ورش عن نافع</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/rabieaaa2045_yaho2472472457247524572457427o_004/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ وليد مهساس الجزائري ورش عن نافع (الأصبهاني)</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://ia801500.us.archive.org/3/items/ALAJRE_Quran_tilawat2/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ الشيخ حسام مرزوق التونسي برواية ورش عن نافع من طريق الأزرق</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/hedhoucem_gmail_12/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ رشيد بلعالية برواية ورش عن نافع من طريق الأصبهاني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://quran.islamway.net/quran3/2479/9297/32/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ عمر القزابري المغربي برواية ورش عن نافع</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server9.mp3quran.net/omar_warsh/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ عبد الرحمن السديس</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Abdulrahman__Alsudais/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ محمد صديق المنشاوي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Al-Minshawy_Muratal_Quran/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ عبد الرحمن جمال العوسي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://archive.org/download/quran-full-114-sorah---by-abd-alrahman-gamal-al3ousy-high-quality-224kb-----mp3/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ خالد الجليل</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/kaled_jalil/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ خالد القحطاني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/khalid-alkahtaany-192kb-quranic/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ فارس عباد</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Fares___Abbad/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ ياسر الدوسري</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Yasser_Aldosari/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ محمد محمود الطبلاوي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Mohamed_ATablawi/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ محمود خليل الحصري</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Mahmoud_Khalil_Al-Hosary/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ صلاح البدير</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Salah_Albudair_MP3_Quran/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ ناصر القطامي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/quran-recitation-recited-by---naser-alqttami-high-quality/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ العيون الكوشي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/AlOyon_AlKoshi_Warsh/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ سعود الشريم</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri> http://archive.org/download/Saud_Al-Shuraim_Quran/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ محمد حسان</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://download.quran.islamway.net/quran3/673/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ ادريس ابكر</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server6.mp3quran.net/abkr/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ ابوبكر الشاطري</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server11.mp3quran.net/shatri/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ علي الحذيفي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server9.mp3quran.net/hthfi/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ عبدالله الجهني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server13.mp3quran.net/jhn/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ صلاح بوخاطر</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server8.mp3quran.net/bu_khtr/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ عادل الكلباني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server8.mp3quran.net/a_klb/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ نبيل الرفاعي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server9.mp3quran.net/nabil/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ شيرزاد طاهر</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://download.tvquran.com/download/TvQuran.com__Shirazad/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ عبدالله خياط</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://ia600302.us.archive.org/11/items/TvQuran.com__Khayat/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>الشيخ عبدالولي الاركاني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://server6.mp3quran.net/arkani/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp100>
+	<name>القارئ طارق دعوب</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>https://download.tvquran.com/download/recitations/210/159/</uri>
+	<Rw>_أشهر القراء_</Rw>
+</mp100>
+<mp101>
+	<name>القارئ المعصراوي برواية روح عن يعقوب الحضرمي</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/quran/mesarawi/rawh_yaqoob/</uri>
+	<Rw>_من سورة المجادلة الى سورة الناس_</Rw>
+</mp101>
+<mp101>
+	<name>القارئ محمد السلطني</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/MeftahAlstunai/ibnwerdan_abujaafar/</uri>
+	<Rw>_رواية ابن جماز عن أبي جعفر_</Rw>
+</mp101>
+<mp101>
+	<name>القارئ حمزة الجزائري بدون سورة البقرة</name>
+	<icon>Coran.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://audio3.islamweb.net/Quran/HamzaAldzauraa/</uri>
+	<Rw>_رواية ورش عن نافع من طريق الأزرق_</Rw>
+</mp101>
+</stream>
